@@ -1,5 +1,7 @@
 # MauiXamlSourceGenDemo
 
+Check out the video walkthrough: [![YouTube Video Views](https://img.shields.io/youtube/views/3APIPxqpzTc)](https://youtu.be/3APIPxqpzTc)
+
 Sample code to demonstrate how to enable XAML Source Generation with .NET MAUI 10
 
 ## How to enable?
