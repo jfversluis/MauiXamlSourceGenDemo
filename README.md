@@ -4,6 +4,8 @@ Check out the video walkthrough: [![YouTube Video Views](https://img.shields.io/
 
 Sample code to demonstrate how to enable XAML Source Generation with .NET MAUI 10
 
+![An overview of the improvements that XAML Source Generation brings to .NET MAUI](assets/improvement-stats.png)
+
 ## How to enable?
 
 1. Make sure to use at least .NET MAUI 10 RC2 or up
